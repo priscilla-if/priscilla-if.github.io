@@ -1,7 +1,7 @@
 
 export default function Japanese() {
     return (
-        <div style={{ position: "relative"}} id="japanese_intro">
+        <div style={{ position: "relative"}} id="japanese_intro" className="scroll-mt-20">
             <div className="contrast-100 brightness-100 relative blur-sm">
                 <img
                     src="cherry_blossoms_again.jpg"
