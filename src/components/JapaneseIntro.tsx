@@ -11,7 +11,7 @@ export default function JapaneseIntro() {
                         <div className="card-body items-center text-center">
                             <h2 className="card-title">
                             </h2>
-                            <p>I have a strong passion for language learning and I am currently pursuing a Certificate in Languages at UC while finishing my degree in Software Engineering. My goal for this year is to undertake the Japanese Language Proficiency Test at N2 level. I am currently looking at combining my technical and language learning skills to bring to life a mobile application that will help me keep track of my study progress.</p>
+                            <p className="text-left">Along with software, I have a strong passion for language learning and I am currently pursuing a Certificate in Languages at UC while finishing my degree in Software Engineering. My goal for this year is to undertake the Japanese Language Proficiency Test at N2 level. I am currently looking at combining my technical and language learning skills to bring to life a mobile application that will help me keep track of my study progress.</p>
                             </div>
                         </div>
                     </div>
