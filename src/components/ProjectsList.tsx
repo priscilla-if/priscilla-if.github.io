@@ -44,7 +44,7 @@ export default function ProjectsList() {
     ]
 
     return (
-        <div id="projects" className="scroll-mt-20">
+        <div id="projects" className="scroll-mt-20 bg-base-200">
             <h1 className="text-4xl md:text-8xl font-bold p-10">Projects</h1>
         <div className="flex justify-center items-center">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 lg:grid-rows-2 lg:gap-30">{projectData.map(project=> (

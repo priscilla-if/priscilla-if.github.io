@@ -1,7 +1,7 @@
 
 export default function JapaneseIntro() {
     return (
-        <div className="">
+        <div className="bg-base-200">
             <div className="flex flex-col lg:h-[545px] lg:flex-row px-0 sm:px-20 md:px-48 lg:px-0">
                 <div className="basis-2/5  p-10">
                     <div className="card bg-base-100 shadow-xl bg-white h-full ">
